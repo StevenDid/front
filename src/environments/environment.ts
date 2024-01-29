@@ -6,7 +6,7 @@ import {Environment} from "./environment.interface";
 
 export const environment: Environment = {
   production: false,
-  backendUrl: 'http://localhost:8080'
+  backendUrl: 'http://192.168.33.1:8080'
 };
 
 /*
